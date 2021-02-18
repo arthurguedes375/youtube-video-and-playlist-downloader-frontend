@@ -12,7 +12,6 @@ export const Loading = styled.div<{ active: boolean; }>`
 
     background-color: #FF0201;
 
-    animation: loading infinite;
 
     animation-name: loading;
     animation-duration: 2s;
