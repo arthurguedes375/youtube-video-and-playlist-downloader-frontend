@@ -4,7 +4,7 @@
 - Clone This project
 - Install packages with the commands `yarn` or `npm i`
 - To start the Server you need to run: `yarn dev` or `npm run dev`
-- Clone the [backend](https://github.com/arthurguedes375/youtube-video-and-playlist-downloader/settings) and set it up then come back to this project
+- Clone the [backend](https://github.com/arthurguedes375/youtube-video-and-playlist-downloader) and set it up then come back to this project
 - Go to ` src/config/api.ts ` and set the url to your backend url
 
 ## :rocket: Techs
