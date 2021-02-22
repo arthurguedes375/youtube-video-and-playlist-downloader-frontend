@@ -13,13 +13,14 @@ import { Container, DownloadBox, DownloadContainer } from '@styles/base';
 import Input from '@components/Input';
 import Select from '@components/Select';
 import Button from '@components/Button';
+import Loading from '@components/Loading';
 
 // Swal
 import Swal from 'sweetalert2';
 
 // Services
 import { axios } from 'src/services/api';
-import Loading from '@components/Loading';
+
 
 // Interfaces
 interface IPlaylistResponse {
